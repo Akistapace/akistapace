@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Akistapace">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akistapace&show_icons=true&include_all_commits=true&count_private=true&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akistapace&layout=compact&langs_count=7&&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4"/>
+  <img height="180em"  width="100%" src="https://github-readme-stats.vercel.app/api?username=akistapace&show_icons=true&include_all_commits=true&count_private=true&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4"/>
+  <img height="180em"  width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akistapace&layout=compact&langs_count=7&&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4"/>
 </div>
 <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
