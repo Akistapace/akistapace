@@ -1,7 +1,8 @@
 <div style="display: flex;"  align="center">
-  <a href="https://github.com/Akistapace">
+  <a style="display: flex;"   href="https://github.com/Akistapace">
   <img height="180em"  width="50%" src="https://github-readme-stats.vercel.app/api?username=akistapace&show_icons=true&include_all_commits=true&count_private=true&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4" >
   <img height="180em"  width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akistapace&layout=compact&langs_count=7&&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4" >
+    </a> 
 </div>
 
   
