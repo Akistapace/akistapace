@@ -1,3 +1,26 @@
+<div align="center"> 
+ 
+  # Fernando Aquistapace
+  ## Front End Developer
+</div>
+
+Projects on this github:
+
+:rocket: [vtex-lazyloading](www.npmjs.com/package/vtex-lazyloading) - [![Npm package daily downloads](https://badgen.net/npm/dd/vtex-lazyloading)](npmjs.com/package/vtex-lazyloading)
+
+:rocket: [Pokedex](https://akistapace.github.io/Pokedex/)
+
+:rocket: [Pokeball](https://akistapace.github.io/Pokeball/)
+
+:rocket: [Stream - Agile Content](https://stunning-naiad-c423c3.netlify.app/)
+
+:rocket: [Vnda - Challenge Pleno](https://akistapace.github.io/frontend-challenge-pleno/)
+
+:rocket: [Vnda - Challenge Junior](https://akistapace.github.io/site-simples-Jr/)
+
+:rocket: [Site in Bootstrap](https://akistapace.github.io/site-in-bootstrap/)
+
+
 <div style="display: flex;"  align="center">
   <img height="180em"  width="49%" src="https://github-readme-stats.vercel.app/api?username=akistapace&show_icons=true&include_all_commits=true&count_private=true&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4" >
   
