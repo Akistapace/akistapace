@@ -6,7 +6,7 @@
 
 Projects on this github:
 
-:rocket: [vtex-lazyloading](www.npmjs.com/package/vtex-lazyloading) - [![Npm package daily downloads](https://badgen.net/npm/dy/vtex-lazyloading)](npmjs.com/package/vtex-lazyloading)
+:rocket: [vtex-lazyloading](https://www.npmjs.com/package/vtex-lazyloading) - [![Npm package daily downloads](https://badgen.net/npm/dy/vtex-lazyloading)](npmjs.com/package/vtex-lazyloading)
 
 :rocket: [Pokedex](https://akistapace.github.io/Pokedex/)
 
