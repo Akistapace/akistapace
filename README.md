@@ -4,21 +4,9 @@
   ## Front End Developer
 </div>
 
-Projects on this github:
+My Personal Portfolio
+:rocket: [Portfolio](https://akistapace.github.io/portfolio/)
 
-:rocket: [vtex-lazyloading](https://www.npmjs.com/package/vtex-lazyloading) - [![Npm package daily downloads](https://badgen.net/npm/dy/vtex-lazyloading)](npmjs.com/package/vtex-lazyloading)
-
-:rocket: [Pokedex](https://akistapace.github.io/Pokedex/)
-
-:rocket: [Pokeball](https://akistapace.github.io/Pokeball/)
-
-:rocket: [Stream - Agile Content](https://stunning-naiad-c423c3.netlify.app/)
-
-:rocket: [Vnda - Challenge Pleno](https://akistapace.github.io/frontend-challenge-pleno/)
-
-:rocket: [Vnda - Challenge Junior](https://akistapace.github.io/site-simples-Jr/)
-
-:rocket: [Site in Bootstrap](https://akistapace.github.io/site-in-bootstrap/)
 
 
 <div style="display: flex;"  align="center">
