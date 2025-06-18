@@ -1,13 +1,10 @@
 <div align="center"> 
  
   # Fernando Aquistapace
-  ## Front End Developer
+  ## Software Developer
+ ### :rocket: [Portfolio](https://akistapace.github.io/portfolio/)
+<br/>
 </div>
-
-My Personal Portfolio
-:rocket: [Portfolio](https://akistapace.github.io/portfolio/)
-
-
 
 <div style="display: flex;"  align="center">
   <img height="180em"  width="49%" src="https://github-readme-stats.vercel.app/api?username=akistapace&show_icons=true&include_all_commits=true&count_private=true&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4" >
