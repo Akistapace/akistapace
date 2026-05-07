@@ -1,41 +1,100 @@
-<div align="center"> 
- 
-  # Fernando Aquistapace
-  ## Software Developer
- ### :rocket: [Portfolio](https://akistapace.github.io/portfolio/)
-<br/>
-</div>
+# 👋 Hey, I'm Fernando Aquistapace
 
-<!-- <div style="display: flex;"  align="center">
-  <img height="180em"  width="49%" src="https://github-readme-stats.vercel.app/api?username=akistapace&show_icons=true&include_all_commits=true&count_private=true&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4" >
-  
-  <img height="180em"  width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akistapace&layout=compact&langs_count=7&&title_color=3290e4&text_color=ffffff&icon_color=3290e4&bg_color=0c0c0c&border_color=3290e4" >
+```ts
+const fernando = {
+  role: "Frontend Engineer / Learning to Become a Fullstack Engineer",
+  stack: [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Zustand",
+    "Tailwind",
+    "Supabase",
+    "OpenAPI",
+  ],
+  architecture: [
+    "Scalable Frontends",
+    "Design Systems",
+    "Performance",
+    "Clean Code",
+    "Clean Architecture",
+  ],
+  currentlyLearning: [
+    "Backend Node.js",
+    "System Design",
+    "AI Apps",
+  ],
+  passion: "Building products that scale beautifully",
+};
+```
 
-</div> -->
+---
 
-  
-<div style="display: inline_block;" align="center"><br>
-  <img align="center" alt="Fernando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fernando-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fernando-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fernando-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Fernando-Jquey" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Fernando-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Fernando-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
-</div> 
- 
-  ---
-<p align="center" > 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Akistapace/count.svg" />
+## 🚀 About Me
+
+- 💻 Developer focused on modern and scalable applications
+- ⚡ Specialized in the React / Next.js ecosystem
+- 🧠 Passionate about frontend architecture and web performance
+- 🏗️ Experience with ecommerce, enterprise systems, and SaaS platforms
+- 🌍 Working remotely on international projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Zustand](https://img.shields.io/badge/-Zustand-000)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+
+### Backend & Infra (Currently Learning)
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+
+### Tools
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
+
+---
+
+## 🧠 Currently Learning
+
+- Frontend System Design
+- AI-powered applications
+- Scalable architectures with Next.js
+- Backend development with Node.js
+
+---
+
+## 🌎 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-aquistapace)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://akistapace.github.io/portfolio/)
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.akistapace@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Code is not just implementation — it's product experience."</i>
 </p>
 
-<div align="center"> 
-  <a href = "mailto:fernando.akistapace@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>      
-  <a href="https://www.linkedin.com/in/fernando-aquistapace-33a414165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
-  ![Snake animation](https://github.com/Akistapace/akistapace/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+## ⚡ Fun fact
+
+```ts
+while (!success) {
+  tryAgain();
+}
+```
