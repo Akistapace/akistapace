@@ -2,7 +2,7 @@
 
 ```ts
 const fernando = {
-  role: "Frontend Engineer / Learning to Become a Fullstack Engineer",
+  role: "Fullstack Engineer",
   stack: [
     "TypeScript",
     "React",
