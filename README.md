@@ -4,6 +4,7 @@
 const fernando = {
   role: "Fullstack Engineer",
   stack: [
+    "Node",
     "TypeScript",
     "React",
     "Next.js",
@@ -19,11 +20,6 @@ const fernando = {
     "Performance",
     "Clean Code",
     "Clean Architecture",
-  ],
-  currentlyLearning: [
-    "Backend Node.js",
-    "System Design",
-    "AI Apps",
   ],
   passion: "Building products that scale beautifully",
 };
@@ -51,7 +47,7 @@ const fernando = {
 ![Zustand](https://img.shields.io/badge/-Zustand-000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 
-### Backend & Infra (Currently Learning)
+### Backend & Infra
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
@@ -86,7 +82,7 @@ const fernando = {
 ---
 
 <p align="center">
-  <i>"Code is not just implementation — it's product experience."</i>
+  <i>"Code is not just implementation it's product experience."</i>
 </p>
 
 ---
