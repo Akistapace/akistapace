@@ -1,102 +1,62 @@
-# 👋 Hey, I'm Fernando Aquistapace
+<div align="center">
+
+# Fernando Aquistapace
+
+**Fullstack Engineer**, React / Next.js ecosystem, frontend architecture, product-driven engineering.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-aquistapace)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://akistapace.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fernando.akistapace@gmail.com)
+
+</div>
+
+<br>
 
 ```ts
-const fernando = {
-  role: "Fullstack Engineer",
-  stack: [
-    "Node",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Node.js",
-    "Zustand",
-    "Tailwind",
-    "Supabase",
-    "OpenAPI",
-  ],
-  architecture: [
-    "Scalable Frontends",
-    "Design Systems",
-    "Performance",
-    "Clean Code",
-    "Clean Architecture",
-  ],
-  passion: "Building products that scale beautifully",
-};
-```
-
----
-
-## 🚀 About Me
-
-- 💻 Developer focused on modern and scalable applications
-- ⚡ Specialized in the React / Next.js ecosystem
-- 🧠 Passionate about frontend architecture and web performance
-- 🏗️ Experience with ecommerce, enterprise systems, and SaaS platforms
-- 🌍 Working remotely on international projects
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Zustand](https://img.shields.io/badge/-Zustand-000)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
-
-### Backend & Infra
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
-
----
-
-## 🧠 Currently Learning
-
-- Frontend System Design
-- AI-powered applications
-- Scalable architectures with Next.js
-- Backend development with Node.js
-
----
-
-## 🌎 Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernando-aquistapace">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://akistapace.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:fernando.akistapace@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Code is not just implementation it's product experience."</i>
-</p>
-
----
-
-## ⚡ Fun fact
-
-```ts
-while (!success) {
-  tryAgain();
+interface Engineer {
+  role: "Fullstack Engineer";
+  focus: "Frontend Architecture" | "Design Systems" | "Web Performance";
+  stack: ["TypeScript", "React", "Next.js", "Node.js", "Supabase"];
+  mindset: "Ship products, not just code";
 }
 ```
+
+## About
+
+Fullstack engineer with a strong lean toward the frontend. I care as much about how a codebase
+scales as how a product feels to use. Background across ecommerce, enterprise systems, and SaaS,
+currently working remotely with international teams.
+
+What I optimize for:
+
+- **Architecture** that stays maintainable as the team and codebase grow
+- **Performance** as a feature, not an afterthought
+- **Design systems** that keep product and engineering in sync
+- **Clean code** that reads like documentation
+
+## Stack
+
+| | |
+|---|---|
+| **Frontend** | TypeScript · React · Next.js · Zustand · Tailwind CSS |
+| **Backend** | Node.js · Supabase · PostgreSQL · OpenAPI |
+| **Infra & Tools** | Docker · Vercel · Git · Figma |
+
+## Currently exploring
+
+- Frontend system design at scale
+- AI-powered application patterns
+- Backend architecture with Node.js
+
+## Contact
+
+Open to interesting problems and remote collaborations.
+Reach out via [LinkedIn](https://www.linkedin.com/in/fernando-aquistapace) or [email](mailto:fernando.akistapace@gmail.com).
+
+<br>
+
+<div align="center">
+
+*Code is not just implementation, it's product experience.*
+
+</div>
